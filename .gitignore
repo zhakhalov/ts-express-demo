@@ -9,10 +9,10 @@ typings/
 /**/*.tmp.txt
 
 # compiled server files
-.bin/
+# .bin/
 
 # compiled client files
-public/dist
+# public/dist
 
 # caches
 .sass-cache/

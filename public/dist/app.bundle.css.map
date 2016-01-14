@@ -1,0 +1,9 @@
+{
+	"version": 3,
+	"file": "app.bundle.css",
+	"sources": [
+		"../stylesheets/app.scss"
+	],
+	"mappings": "",
+	"names": []
+}
