@@ -1,0 +1,25 @@
+{
+  "name": "ts-express-demo",
+  "authors": [
+    "Viktor Zhakhalov <zhakhalov@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8",
+    "angular-bootstrap": "~1.0.3",
+    "lodash": "~4.0.0"
+  }
+}

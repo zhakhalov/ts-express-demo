@@ -1,0 +1,19 @@
+# 3rd party dependencies
+node_modules/
+bower_components/
+
+# typings
+typings/
+
+# tsc temporaty command
+/**/*.tmp.txt
+
+# compiled server files
+.bin/
+
+# compiled client files
+public/dist
+
+# caches
+.sass-cache/
+.tscache/

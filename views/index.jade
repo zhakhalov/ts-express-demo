@@ -1,0 +1,9 @@
+extends layout.jade
+block content
+  .container(ng-app="app")
+    header.page-heading Demo App
+    .row(ng-controller="AppController as appCtrl")
+      .col-xs-12
+        pre {{response}}
+      .col-xs-12
+        buntton.btn.btn-primary.btn-block(ng-click="appCtrl.performApiCall()") Api Call

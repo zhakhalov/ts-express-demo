@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "preserveConstEnums": true,
+    "target": "es5",
+    "rootDir": ".",
+    "sourceMap": true,
+    "outDir": ".bin"
+  },
+  "exclude": [
+    "node_modules",
+    "public"
+  ]
+}

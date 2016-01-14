@@ -1,0 +1,26 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "target": "es5",
+        "rootDir": "public/app",
+        "sourceMap": true,
+        "sourceRoot": "../app/",
+        "outFile": "dist/app.bundle.js"
+    },
+    "filesGlob": [
+        "**/*.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "bower_components",
+        "dist"
+    ],
+    "files": [
+        "app/_references.ts",
+        "app/app.ts",
+        "app/controllers/app-controller.ts",
+        "app/modules/lodash/lodash.ts",
+        "app/services/app-service.ts"
+    ]
+}
